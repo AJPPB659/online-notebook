@@ -1,0 +1,369 @@
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[21-May-2018 15:37:56 UTC] PHP Warning:  include(): Failed opening 'remember.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:13:46 UTC] PHP Warning:  include(): Failed opening 'remember.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:05 UTC] PHP Warning:  include(): Failed opening 'remember.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(remember.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:15:06 UTC] PHP Warning:  include(): Failed opening 'remember.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 9
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:57:32 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 04:58:19 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:00:00 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:06:05 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:10:56 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:13:58 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 3
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:14:14 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:34:30 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:34:30 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:34:30 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:20 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:20 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:20 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:53:27 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:06 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:14 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:15 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:15 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:54:15 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:38 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:58 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:58 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:55:58 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:00 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:08 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:08 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:56:08 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:57:01 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:57:01 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:57:01 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:58:55 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:58:55 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:58:55 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:01 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:01 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:01 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:18 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:18 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:18 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:21 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:23 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:23 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:23 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:25 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:25 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 05:59:25 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:06 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:09 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:09 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:00:09 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:01:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:01:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:01:28 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:24 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:28 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:02:38 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:03:42 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:03:42 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:03:42 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:14 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:14 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:04:28 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:00 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:10 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:45 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:45 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:05:45 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:20 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:20 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:20 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:28 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:33 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:46 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:51 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:51 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:06:51 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:27 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:31 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:31 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:08:31 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:52 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:52 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:52 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:09:57 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:24 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:28 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:28 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:52 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:52 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:52 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:11:57 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:12:13 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:12:13 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:12:13 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:17:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:17:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:17:54 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:21:16 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:21:16 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:21:16 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:22:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:22:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:22:56 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:26 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:26 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:26 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:29 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:29 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:29 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:34 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:34 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:30:34 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:34:40 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:34:40 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:34:40 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:35:37 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:35:37 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:35:37 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:36:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:36:27 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:36:27 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:38:53 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:38:53 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:38:53 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:39:02 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:39:02 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:39:02 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:40:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:40:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:40:21 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:41:18 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:41:18 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:41:18 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:08 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:08 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:08 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:10 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:12 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:17 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:17 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 06:43:17 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:14:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:14:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:14:11 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:17:26 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:17:26 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:17:26 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:18:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:18:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:18:56 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:21:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:21:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:21:33 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:27:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:27:38 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:27:38 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:48 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:48 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:48 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:51 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:51 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:51 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:35:54 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:13 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:13 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:13 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:31 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:31 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:31 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:36 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:36 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:36 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:56 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:56 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:59 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:59 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:36:59 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:00 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:00 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:21 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:21 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:24 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:24 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:33 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:33 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:41 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:41 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:41 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:44 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:44 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:37:44 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:38:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:38:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:38:12 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:06 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:06 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:11 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:54 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:51:54 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:52:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:52:10 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[22-May-2018 07:52:10 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:28:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:28:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:28:46 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:46 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:46 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:57 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:33:57 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:11 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:11 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:12 UTC] PHP Warning:  include(logout.php): failed to open stream: No such file or directory in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 06:34:12 UTC] PHP Warning:  include(): Failed opening 'logout.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/uvidmthe/public_html/index.php on line 6
+[23-May-2018 09:23:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:26:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:27:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:27:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:27:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:28:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 09:30:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 10:43:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:16:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:20:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:20:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:30:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:31:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:33:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:40:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:40:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/storeresetpassword.php:3) in /home/uvidmthe/public_html/storeresetpassword.php on line 4
+[23-May-2018 11:55:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/resetpassword.php:4) in /home/uvidmthe/public_html/resetpassword.php on line 5
+[23-May-2018 11:55:39 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/uvidmthe/public_html/storeresetpassword.php:3) in /home/uvidmthe/public_html/storeresetpassword.php on line 4

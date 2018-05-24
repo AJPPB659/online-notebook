@@ -1,5 +1,17 @@
 # online-notebook
-HTML CSS BOOSTRAP PHP MYSQL AJAX
+This project is based on HTML CSS BOOSTRAP PHP MYSQL AJAX technologies.
+With  Online NoteBook, you can use your Web browser on your PC, Mac, or mobile device to create, open, view, edit, format,  your notes .
+
+Your Notes with you wherever you go.
+Easy to use, protects all your notes!
+
+app features:
+*sign up as your own account
+*log in and log out in your account
+*remember your password (if you want)
+*forgot-reset password
+*update username email password anytime
+*create edit delete your own notes
 
 
 

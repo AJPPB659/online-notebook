@@ -23,4 +23,3 @@ app features:
 
 ![4](https://user-images.githubusercontent.com/39581508/40471653-fa7e670e-5f54-11e8-871d-929f465b9566.png)
 
-![5](https://user-images.githubusercontent.com/39581508/40471666-0402c37e-5f55-11e8-8d30-6020cbf18505.png)

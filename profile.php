@@ -242,7 +242,7 @@ if($count == 1){
     <!-- Footer-->
       <div class="footer">
           <div class="container">
-              <p>DevelopmentIsland.com Copyright &copy; 2015-<?php $today = date("Y"); echo $today?>.</p>
+              <p>uvindu sarnath  &copy; 2018-<?php $today = date("Y"); echo $today?>.</p>
           </div>
       </div>
 
